@@ -5,11 +5,11 @@
 
 - 🌱 兴趣爱好：喜欢吃美食、旅行，也爱听音乐、无限暖暖
 
-- 📷   <img src="D:\SE\picture\nuan3.jpg" alt="nuan3"  />
+- 📷  <br><img src="https://github.com/user-attachments/assets/39bd465e-d769-4750-82cf-3bd1fbb96894" width="75%" alt="1">
 
 - 💡 重度毛绒控！！！
 
-    <img src="D:\SE\picture\1.jpg" alt="1" style="zoom:25%;" />
+     <img src="https://github.com/user-attachments/assets/bd9374cb-57cb-4cfa-bd98-121a62391752" width="25%" alt="1">
 
 ---
 
