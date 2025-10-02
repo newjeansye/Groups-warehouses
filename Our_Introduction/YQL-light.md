@@ -1,6 +1,6 @@
-:high_brightness: <center> **What a pleasure to meet you!**  </center>:high_brightness:
+:high_brightness:<center>**What a pleasure to meet you!** </center>:high_brightness:
 
-:rocket:<center>**Welcome to YQL-light's World!**</center>:rocket:
+:rocket:<center> **Welcome to YQL-light's World!** </center>:rocket:
 
 :train:<center>**是一列不断努力<向内求源，向外求索>的小火车**</center>
 
